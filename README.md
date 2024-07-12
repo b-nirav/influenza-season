@@ -9,6 +9,18 @@ You can visit my tableau storyboard to understand the analysis in brief highligh
 You can also checkout the presentation video that I have created. This will give you the most important insights in an easy way. 
 [Video Presentation](https://www.youtube.com/watch?v=bJ7_mNFz3k4)
 
+## Tools and Techniques
+For conducting this analysis I have used Excel as my main tool and for presenting the results of the analysis to our stakeholders I have used Tableau Public.
+Following are some of the skills and methodologies that have gone into the making of this project:
+* Data Profiling
+* Data Cleaning
+* Data Transformation
+* Data Integration using Vlookup
+* Statistical Hypothesis Testing
+* Forecasting
+* Story Telling with Tableau
+
+
 ## Dataset
 The following data sets covering influenza in the United States will be used during the project:
 1. [Influenza Deaths by Geography](https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx)
@@ -19,4 +31,7 @@ The influenza deaths dataset comes from Center for Desease Control(CDC) and popu
 The dataset is likely representative of the population due to various data collection methods. However, some county population data is missing for certain years, which limits aggregation and yearly state-wise comparisons. Additionally, the annual data collection process creates a gap between survey and publication, potentially introducing errors. Manual data entry could also cause inaccuracies. Nonetheless, since the data is from a government agency, it is likely to have minimal errors and is the best available source for this analysis.
 ### CDC Influenza Deaths Data
 Puerto Rico data is missing, so we can't accurately describe flu-related deaths there. Some data is suppressed for privacy, meaning not all influenza deaths are included. The analysis results will only apply to 2018, as the data spans 2009-2017, and may not be relevant for the current year. Despite these limitations, this is the most accurate dataset available for our analysis.
+
+## Results 
+Here are some snapshots from the final results of the analysis:
 
