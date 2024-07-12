@@ -5,7 +5,8 @@ In this repository, I conduct an in-depth analysis to create a staffing plan for
 You can visit my tableau storyboard to understand the analysis in brief highlighting the key aspects:
 
 [Tableau Storyboard](https://public.tableau.com/app/profile/nirav.bariya/viz/Exercise2_9_17110453323300/InfluenzaStory?publish=yes)
-You can also checkout the presentation video that I have created. This will give you the most important insights in an easy way.
+
+You can also checkout the presentation video that I have created. This will give you the most important insights in an easy way. 
 [Video Presentation](https://www.youtube.com/watch?v=bJ7_mNFz3k4)
 
 ## Dataset
