@@ -39,8 +39,9 @@ Here are some snapshots from the final results of the analysis:
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="https://github.com/user-attachments/assets/a1cbc7ea-2f0e-445f-982e-a4b96c4e8e45" width="45%">
 </p>
+
 * The impact of influenza on people having age over 65 years is clearly much more severe than other people as 91.30% deaths were recorded in this age group between 2009-2017.
-
+<p align="center">
 <img width="672" alt="image" src="https://github.com/user-attachments/assets/87d8d047-b15b-4ee6-bc9b-247334e867d7">
-
+</p>
 
