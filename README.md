@@ -34,4 +34,10 @@ Puerto Rico data is missing, so we can't accurately describe flu-related deaths 
 
 ## Results 
 Here are some snapshots from the final results of the analysis:
+<p align="center">
+  <img alt="Light" src="https://github.com/user-attachments/assets/d19ce87d-2b67-4c25-91b8-c6644947b6e1" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github.com/user-attachments/assets/a1cbc7ea-2f0e-445f-982e-a4b96c4e8e45" width="45%">
+</p>
+
 
