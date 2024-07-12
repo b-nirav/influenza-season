@@ -49,5 +49,5 @@ Here are some snapshots from the final results of the analysis:
 * California, New York will belong to high-risk category.
 * Texas, Pennsylvania, Florida, Illinois, and Ohio will belong to medium risk category.
 
-For more thorough analysis, I urge you to visit Tableau Dashboard. 
+For more thorough analysis, I urge you to visit Tableau Dashboard. It will also help you clarify any questions you may have.
 
