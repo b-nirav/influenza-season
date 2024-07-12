@@ -4,6 +4,7 @@ In this repository, I conduct an in-depth analysis to create a staffing plan for
 ## Tableau Storyboard
 You can visit my tableau storyboard to understand the analysis in brief highlighting the key aspects:
 [Tableau Storyboard](https://public.tableau.com/app/profile/nirav.bariya/viz/Exercise2_9_17110453323300/InfluenzaStory?publish=yes)
+[Video Presentation](https://www.youtube.com/watch?v=bJ7_mNFz3k4)
 
 ## Dataset
 The following data sets covering influenza in the United States will be used during the project:
