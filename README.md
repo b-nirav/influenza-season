@@ -45,3 +45,9 @@ Here are some snapshots from the final results of the analysis:
 <img width="672" alt="image" src="https://github.com/user-attachments/assets/87d8d047-b15b-4ee6-bc9b-247334e867d7">
 </p>
 
+* I categorized the states in three categories, high risk, medium risk, low risk, based on deaths in 65 years and above age group and mortality rate of states.
+* California, New York will belong to high-risk category.
+* Texas, Pennsylvania, Florida, Illinois, and Ohio will belong to medium risk category.
+
+For more thorough analysis, I urge you to visit Tableau Dashboard. 
+
