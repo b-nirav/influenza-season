@@ -34,16 +34,24 @@ Puerto Rico data is missing, so we can't accurately describe flu-related deaths 
 ### Preprocessing Data:
 The first step of finding a solution for the staffing agency to meet the staffing need of the country was to understand and clean the data. I took these steps to understand the data and preprocess the data to make sure it’s ready for the analysis that is to come.
 
-Prepared Project Management Plan
-<img width="85%" alt="image" src="https://github.com/user-attachments/assets/9f5b8f4b-0752-462e-8fd8-ed766acbc822">
+1. Prepared Project Management Plan
+2. Performed Data Quality Checks
+3. Created Data Profiles for Raw Data
+4. Checked for errors and consistency in the data
+5. Addressed missing values and duplicated rows
+6. Creating summary statistics for cleaned data
 
+### Challenges Encountered:
+* All the deaths for less than 5 years age group were suppressed due to privacy concerns.
+* For age group 15-24 and 5-14, 99% of the deaths were suppressed.Deaths were suppressed wherever the count was less than 10.
+* I did not impute deaths as most of the data was suppressed.
 
-3. Performed Data Quality Checks
-4. Created Data Profiles for Raw Data
-5.  
+## Summarizing and Analyzing Data 
+I started with exploring the number of deaths that had taken place in recent years to understand the severity of the problem. Moreover, doing so helped me capture the recent trend of influenza.
+<p align = "center">
+  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/ed9d255c-de3e-4fbf-a40c-f35fa28b6011">
+</p>
 
-## Results 
-Here are some snapshots from the final results of the analysis:
 <p align="center">
   <img alt="Light" src="https://github.com/user-attachments/assets/d19ce87d-2b67-4c25-91b8-c6644947b6e1" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
