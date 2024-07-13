@@ -68,7 +68,7 @@ In fact, the same proportion of of age groups was maintained over last couple of
 
 Seeing the trends, I hypothesized that vulnerable population is more at risk of dying from influenza than general population. I tested my hypothesis using hypothesis testing technique in statistics and plotting correlation plots.
 
-<p aligh = "center">
+<p align = "center">
   <img width="45%" alt="image" src="https://github.com/user-attachments/assets/7a99ddd4-2d87-40cf-9417-e17d31d3ef23">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img width="45%" alt="image" src="https://github.com/user-attachments/assets/3b53928a-b1ad-488c-98d7-43dc6df6a3c7">
@@ -78,18 +78,37 @@ Seeing the trends, I hypothesized that vulnerable population is more at risk of 
 
 ### Comparing States
 The next step of the process was to identify states requiring highest priority and classify them based on need. I used total deaths for 65 years and above group across all years and mortality rate to created bar plot and geographical plots that helped identify the states with location.
-<p aligh = "center">
+<p align = "center">
   <img width="80%" alt="image" src="https://github.com/user-attachments/assets/7a7d0927-3589-42e2-bfc7-b92979daf242">
   <img width="80%" alt="image" src="https://github.com/user-attachments/assets/a9a3e03f-1e87-4106-9b1c-95798c29bb13">
 </p>
-  
+- I categorized the states in three categories, high risk, medium risk, low risk, based on deaths in 65 years and above age group and mortality rate of states. **California, New York** will belong to high-risk category. 
+
+### Identifying the Season
+Finally, I looked at the months during which the influenza deaths start to increase. This was done by creating a bar graph indicating total deaths per month.
+<p align = "center"
+<img width="774" alt="image" src="https://github.com/user-attachments/assets/cfaa79f0-189f-44b0-be74-b122499a648f">
+</p>
+
+- I found that the season of influenza begins around the month of December and continues through April. It reaches its' pick in the month of January.
+- December, February and March have recorded high number of deaths due to influenza after January. 
+
+## Conclusion and Recommendations
+Based on the findings during the analysis I produced recommendations for the staffing agency. Following is the summuray of the recommendations:
+- Our final recommendations about high risk, medium risk states are based upon mortality rates and population of aged people.
+**High Risk States:** California, New York
+**Medium Risk states:** Texas, Illinois, Ohio, Pennsylvania, Florida
+- Further the month of December, February and March should receive highest of priority and additional staff should be sent starting from December up to April.
+
+### Next Steps
+- Relationship between the flu shots provided in the states and mortality needs to be studied to consider the effectiveness of flu shots.
+- Further, some states did not record any mortality. These states needs to be investigated to identify the reasons.
+- And, to know how much staff is needed in each state or county we will require data about how much staff is already available and how many patient were admitted in the hospital to calculate staff to patient ratio.
+
 <p align="center">
 <img width="672" alt="image" src="https://github.com/user-attachments/assets/87d8d047-b15b-4ee6-bc9b-247334e867d7">
 </p>
 
-* I categorized the states in three categories, high risk, medium risk, low risk, based on deaths in 65 years and above age group and mortality rate of states.
-* California, New York will belong to high-risk category.
-* Texas, Pennsylvania, Florida, Illinois, and Ohio will belong to medium risk category.
-
-For more thorough analysis, I urge you to visit Tableau Dashboard. It will also help you clarify any questions you may have.
+### Thank You
+I appreciate your time and I hope you have found the project useful. Do you need more details? Let’s connect. I would be happy to answer any questions you might have. You can contact me using [LinkedIn](http://linkedin.com/in/nirav-bariya-a87984122) or my [email](nkb.bariya@gmail.com). You can also checkout my [GitHub](https://github.com/b-nirav). 
 
