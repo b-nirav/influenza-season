@@ -86,7 +86,7 @@ The next step of the process was to identify states requiring highest priority a
 
 ### Identifying the Season
 Finally, I looked at the months during which the influenza deaths start to increase. This was done by creating a bar graph indicating total deaths per month.
-<p align = "center"
+<p align = "center">
 <img width="774" alt="image" src="https://github.com/user-attachments/assets/cfaa79f0-189f-44b0-be74-b122499a648f">
 </p>
 
@@ -109,6 +109,6 @@ Based on the findings during the analysis I produced recommendations for the sta
 <img width="672" alt="image" src="https://github.com/user-attachments/assets/87d8d047-b15b-4ee6-bc9b-247334e867d7">
 </p>
 
-### Thank You
+## Thank You
 I appreciate your time and I hope you have found the project useful. Do you need more details? Let’s connect. I would be happy to answer any questions you might have. You can contact me using [LinkedIn](http://linkedin.com/in/nirav-bariya-a87984122) or my [email](nkb.bariya@gmail.com). You can also checkout my [GitHub](https://github.com/b-nirav). 
 
