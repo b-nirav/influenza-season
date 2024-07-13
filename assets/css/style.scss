@@ -41,7 +41,7 @@ footer {
 /* Ensure content is moved to the right of the fixed header */
 section {
   margin-left: 10%; /* This should match the width of the header */
-  width: calc(85% - 4rem); /* Adjust width to fill remaining space, accounting for padding */
+  width: calc(90% - 4rem); /* Adjust width to fill remaining space, accounting for padding */
 }
 
 /* Optional media queries for responsiveness */
