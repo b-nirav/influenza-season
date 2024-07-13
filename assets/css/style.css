@@ -1,0 +1,42 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Add custom styles here
+
+/* Adjusting the layout */
+.wrapper {
+  display: flex;
+}
+
+header {
+  flex: 0 0 20%; /* Adjust the width of the header */
+  padding-left: 1rem; /* Add some padding to move it more to the left */
+}
+
+section {
+  flex: 1; /* Adjust the width of the content section */
+  padding: 0 2rem; /* Add some padding for better readability */
+}
+
+/* Optional: Adjust the footer */
+footer {
+  flex-basis: 100%;
+  text-align: center;
+  padding-top: 2rem;
+}
+
+/* Ensure header is fixed */
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  overflow-y: auto;
+}
+
+/* Ensure content is moved to the right of the fixed header */
+section {
+  margin-left: 20%; /* This should match the width of the header */
+}
