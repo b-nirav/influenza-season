@@ -25,7 +25,7 @@ header {
 section {
   flex: 1; /* Adjust the width of the content section */
   padding: 0 2rem; /* Add some padding for better readability */
-  margin-left: 10%%; /* Match this to the header width */
+  margin-left: 10%; /* Match this to the header width */
   margin-right: 1%; /* Reduce right margin to make section wider */
   padding-bottom: 50px; /* Add padding to the bottom to avoid overlap with footer */
 }
@@ -40,7 +40,7 @@ footer {
 
 /* Ensure content is moved to the right of the fixed header */
 section {
-  margin-left: 15%; /* This should match the width of the header */
+  margin-left: 10%; /* This should match the width of the header */
   width: calc(85% - 4rem); /* Adjust width to fill remaining space, accounting for padding */
 }
 
