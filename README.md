@@ -63,7 +63,7 @@ I noticed that these deaths were not distributed evenly, but Deaths due to influ
 
 In fact, the same proportion of of age groups was maintained over last couple of years.
 <p align="center">
-  <img alt="Light" src="https://github.com/user-attachments/assets/d19ce87d-2b67-4c25-91b8-c6644947b6e1" width="85%">
+ <img width="75%" alt="image" src="https://github.com/user-attachments/assets/e8154869-a0a6-4024-bc7a-369766978390">
 </p>
 
 Seeing the trends, I hypothesized that vulnerable population is more at risk of dying from influenza than general population. I tested my hypothesis using hypothesis testing technique in statistics and plotting correlation plots.
@@ -76,6 +76,13 @@ Seeing the trends, I hypothesized that vulnerable population is more at risk of 
 - Population of 65 years and above age group and deaths in this age group have strong positive correlation. If a states has higher population in this group, it is likely that the states will also see higher number of deaths. But mortality rate doesn't have a correlation with population.
 - However, state population and state mortality rates have very strong positive correlation. We can expect that states with higher population will have higher mortality rate.
 
+### Comparing States
+The next step of the process was to identify states requiring highest priority and classify them based on need. I used total deaths for 65 years and above group across all years and mortality rate to created bar plot and geographical plots that helped identify the states with location.
+<p aligh = "center">
+  <img width="80%" alt="image" src="https://github.com/user-attachments/assets/7a7d0927-3589-42e2-bfc7-b92979daf242">
+  <img width="80%" alt="image" src="https://github.com/user-attachments/assets/a9a3e03f-1e87-4106-9b1c-95798c29bb13">
+</p>
+  
 <p align="center">
 <img width="672" alt="image" src="https://github.com/user-attachments/assets/87d8d047-b15b-4ee6-bc9b-247334e867d7">
 </p>
