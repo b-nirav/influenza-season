@@ -1,9 +1,8 @@
-# Influenza Season
+# Influenza Staffing Plan
 **Purpose and Context:** The United States has an influenza season where more people than usual suffer from the flu. This analysis aims to assist a medical staffing agency in planning for influenza season by examining historical trends to proactively address staffing needs across the U.S. 
 
 ### Tableau Storyboard
 You can visit my [Tableau Storyboard](https://public.tableau.com/app/profile/nirav.bariya/viz/Exercise2_9_17110453323300/InfluenzaStory?publish=yes) to understand the analysis in brief highlighting the key aspects:
-
 You can also checkout the [video presentation](https://www.youtube.com/watch?v=bJ7_mNFz3k4) that I have created. This will give you the most important insights in an easy way. 
 
 ### Project Goals:
@@ -12,10 +11,9 @@ You can also checkout the [video presentation](https://www.youtube.com/watch?v=b
 - Determine which states requires most staff.
 
 ## Tools and Techniques
-For conducting this analysis I have used Excel as my main tool and for presenting the results of the analysis to our stakeholders I have used Tableau Public.
+For conducting this analysis I have used **Excel** as my main tool and for presenting the results of the analysis to our stakeholders I have used **Tableau Public**.
 Following are some of the skills and methodologies that have gone into the making of this project:
-* Data Profiling
-* Data Cleaning
+* Data Profiling |  Data Cleaning
 * Data Transformation
 * Data Integration using Vlookup
 * Statistical Hypothesis Testing
