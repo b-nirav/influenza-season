@@ -50,8 +50,9 @@ The first step of finding a solution for the staffing agency to meet the staffin
 I started with exploring the number of deaths that had taken place in recent years to understand the severity of the problem. Moreover, doing so helped me capture the recent trend of influenza.
 <p align = "center">
   <img width="50%" alt="image" src="https://github.com/user-attachments/assets/ed9d255c-de3e-4fbf-a40c-f35fa28b6011">
-  <img width="50" alt="image" src="https://github.com/user-attachments/assets/c94054ee-a778-4553-8ded-0cb6a48aeb3e">
-
+    <img alt="Light" src="https://github.com/user-attachments/assets/d19ce87d-2b67-4c25-91b8-c6644947b6e1" width="50%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img width="50%" alt="image" src="https://github.com/user-attachments/assets/c94054ee-a778-4553-8ded-0cb6a48aeb3e">
 </p>
 
 <p align="center">
