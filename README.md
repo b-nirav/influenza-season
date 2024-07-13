@@ -49,19 +49,24 @@ The first step of finding a solution for the staffing agency to meet the staffin
 ## Summarizing and Analyzing Data 
 I started with exploring the number of deaths that had taken place in recent years to understand the severity of the problem. Moreover, doing so helped me capture the recent trend of influenza.
 <p align = "center">
-  <img width="50%" alt="image" src="https://github.com/user-attachments/assets/ed9d255c-de3e-4fbf-a40c-f35fa28b6011">
-    <img alt="Light" src="https://github.com/user-attachments/assets/d19ce87d-2b67-4c25-91b8-c6644947b6e1" width="50%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img width="50%" alt="image" src="https://github.com/user-attachments/assets/c94054ee-a778-4553-8ded-0cb6a48aeb3e">
+  <img width="80%" alt="image" src="https://github.com/user-attachments/assets/ed9d255c-de3e-4fbf-a40c-f35fa28b6011">
+   
+</p>
+I noticed that these deaths were not distributed evenly, but Deaths due to influenza was higher in aged population in comparison to other groups. The impact of influenza on people having age over 65 years is clearly much more severe than other people as 91.30% deaths were recorded in this age group between 2009-2017.
+
+<p alighn = "center"> 
+  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/7bce1b9d-8568-4c88-95c4-171a4012c723">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github.com/user-attachments/assets/a1cbc7ea-2f0e-445f-982e-a4b96c4e8e45" width="45%">
 </p>
 
 <p align="center">
-  <img alt="Light" src="https://github.com/user-attachments/assets/d19ce87d-2b67-4c25-91b8-c6644947b6e1" width="50%">
+  <img alt="Light" src="https://github.com/user-attachments/assets/d19ce87d-2b67-4c25-91b8-c6644947b6e1" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://github.com/user-attachments/assets/a1cbc7ea-2f0e-445f-982e-a4b96c4e8e45" width="50%">
+  <img alt="Dark" src="https://github.com/user-attachments/assets/a1cbc7ea-2f0e-445f-982e-a4b96c4e8e45" width="45%">
 </p>
 
-* The impact of influenza on people having age over 65 years is clearly much more severe than other people as 91.30% deaths were recorded in this age group between 2009-2017.
+* 
 <p align="center">
 <img width="672" alt="image" src="https://github.com/user-attachments/assets/87d8d047-b15b-4ee6-bc9b-247334e867d7">
 </p>
