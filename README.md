@@ -6,6 +6,10 @@ You can visit my [Tableau Storyboard](https://public.tableau.com/app/profile/nir
 
 You can also checkout the [video presentation](https://www.youtube.com/watch?v=bJ7_mNFz3k4) that I have created. This will give you the most important insights in an easy way. 
 
+### Project Goals:
+- Classify states based on vulnerable population.
+- Determine influenza season.
+- Determine which states requires most staff.
 
 ## Tools and Techniques
 For conducting this analysis I have used Excel as my main tool and for presenting the results of the analysis to our stakeholders I have used Tableau Public.
