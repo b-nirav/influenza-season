@@ -13,10 +13,10 @@
 }
 
 header {
-  flex: 0 0 15%; /* Adjust the width of the header */
+  flex: 0 0 10%; /* Adjust the width of the header */
   padding-left: 2rem; /* Add some padding to move it more to the left */
   position: fixed;
-  top: 0;
+  top: 10%;
   left: 0;
   height: 100%;
   overflow-y: auto;
@@ -25,8 +25,8 @@ header {
 section {
   flex: 1; /* Adjust the width of the content section */
   padding: 0 2rem; /* Add some padding for better readability */
-  margin-left: 15%; /* Match this to the header width */
-  margin-right: 5%; /* Reduce right margin to make section wider */
+  margin-left: 10%%; /* Match this to the header width */
+  margin-right: 1%; /* Reduce right margin to make section wider */
   padding-bottom: 50px; /* Add padding to the bottom to avoid overlap with footer */
 }
 
