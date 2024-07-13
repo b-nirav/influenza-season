@@ -33,8 +33,9 @@ The dataset is likely representative of the population due to various data colle
 Puerto Rico data is missing, so we can't accurately describe flu-related deaths there. Some data is suppressed for privacy, meaning not all influenza deaths are included. The analysis results will only apply to 2018, as the data spans 2009-2017, and may not be relevant for the current year. Despite these limitations, this is the most accurate dataset available for our analysis.
 ### Preprocessing Data:
 The first step of finding a solution for the staffing agency to meet the staffing need of the country was to understand and clean the data. I took these steps to understand the data and preprocess the data to make sure it’s ready for the analysis that is to come.
-1. Prepared Project Management Plan
-<img width="45%" alt="image" src="https://github.com/user-attachments/assets/9f5b8f4b-0752-462e-8fd8-ed766acbc822">
+
+Prepared Project Management Plan
+<img width="85%" alt="image" src="https://github.com/user-attachments/assets/9f5b8f4b-0752-462e-8fd8-ed766acbc822">
 
 
 3. Performed Data Quality Checks
