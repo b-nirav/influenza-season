@@ -52,7 +52,8 @@ I started with exploring the number of deaths that had taken place in recent yea
   <img width="80%" alt="image" src="https://github.com/user-attachments/assets/ed9d255c-de3e-4fbf-a40c-f35fa28b6011">
    
 </p>
-I noticed that these deaths were not distributed evenly, but Deaths due to influenza was higher in aged population in comparison to other groups. The impact of influenza on people having age over 65 years is clearly much more severe than other people as 91.30% deaths were recorded in this age group between 2009-2017.
+I noticed that these deaths were not distributed evenly, but Deaths due to influenza was higher in aged population in comparison to other groups. 
+* The impact of influenza on people having age over 65 years is clearly much more severe than other people as 91.30% deaths were recorded in this age group between 2009-2017.
 
 <p alighn = "center"> 
   <img width="45%" alt="image" src="https://github.com/user-attachments/assets/7bce1b9d-8568-4c88-95c4-171a4012c723">
@@ -60,13 +61,21 @@ I noticed that these deaths were not distributed evenly, but Deaths due to influ
   <img alt="Dark" src="https://github.com/user-attachments/assets/a1cbc7ea-2f0e-445f-982e-a4b96c4e8e45" width="45%">
 </p>
 
+In fact, the same proportion of of age groups was maintained over last couple of years.
 <p align="center">
-  <img alt="Light" src="https://github.com/user-attachments/assets/d19ce87d-2b67-4c25-91b8-c6644947b6e1" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://github.com/user-attachments/assets/a1cbc7ea-2f0e-445f-982e-a4b96c4e8e45" width="45%">
+  <img alt="Light" src="https://github.com/user-attachments/assets/d19ce87d-2b67-4c25-91b8-c6644947b6e1" width="85%">
 </p>
 
-* 
+Seeing the trends, I hypothesized that vulnerable population is more at risk of dying from influenza than general population. I tested my hypothesis using hypothesis testing technique in statistics and plotting correlation plots.
+
+<p aligh = "center">
+  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/7a99ddd4-2d87-40cf-9417-e17d31d3ef23">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/3b53928a-b1ad-488c-98d7-43dc6df6a3c7">
+</p>
+- Population of 65 years and above age group and deaths in this age group have strong positive correlation. If a states has higher population in this group, it is likely that the states will also see higher number of deaths. But mortality rate doesn't have a correlation with population.
+- However, state population and state mortality rates have very strong positive correlation. We can expect that states with higher population will have higher mortality rate.
+
 <p align="center">
 <img width="672" alt="image" src="https://github.com/user-attachments/assets/87d8d047-b15b-4ee6-bc9b-247334e867d7">
 </p>
