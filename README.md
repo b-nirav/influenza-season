@@ -110,5 +110,5 @@ Based on the findings during the analysis I produced recommendations for the sta
 </p>
 
 ## Thank You
-I appreciate your time and I hope you have found the project useful. Do you need more details? Let’s connect. I would be happy to answer any questions you might have. You can contact me using [LinkedIn](http://linkedin.com/in/nirav-bariya-a87984122) or my [email](nkb.bariya@gmail.com). You can also checkout my [GitHub](https://github.com/b-nirav). 
+I appreciate your time and I hope you have found the project useful. Do you need more details? Let’s connect. I would be happy to answer any questions you might have. You can contact me using [LinkedIn](http://linkedin.com/in/nirav-bariya-a87984122) or my [email](mailto:nkb.bariya@gmail.com). You can also checkout my [GitHub](https://github.com/b-nirav). 
 
